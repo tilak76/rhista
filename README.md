@@ -21,16 +21,8 @@ A full-stack matchmaking web application that allows users to create profiles, s
 
 ---
 
-##  Live Demo
-[MatchMaker Live](https://magenta-florentine-9b2c7f.netlify.app/)
+
 
 ---
 
-##  GitHub Repository
-[MatchMaker GitHub](https://github.com/techravi552/matchMekarme)
 
----
-
-##  Contact
-- Email: **ravikalmodiya552@gmail.com**  
-- Portfolio: [ravik-portfolio.netlify.app](https://ravik-portfolio.netlify.app/)
