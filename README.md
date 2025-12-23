@@ -1,4 +1,4 @@
-# MatchMaker 
+# soulconnect
 
 **Description:**  
 A full-stack matchmaking web application that allows users to create profiles, set preferences, and find compatible matches in real-time.
